@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #cdcbcb;
+  }
+
+  /* these are just examples */
+  h1 {
+      color: #000000;
+      font-size: 43px;
+  }
+
+  .container {
+      max-width: 820px;
+      margin: 0 auto;
+    }
+
+    
+    a {
+        color: rgb(224, 32, 2);
+    }
+
+    h3 {
+      color: rgb(16, 87, 111);
+      font-size: 24px;
+    }
