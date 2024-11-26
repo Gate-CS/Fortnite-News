@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #cdcbcb;
+    background-color: #d6d2d2;
   }
 
   /* these are just examples */
@@ -18,7 +18,7 @@ body {
 
     
     a {
-        color: rgb(224, 32, 2);
+        color: rgb(243, 47, 33);
     }
 
     h3 {
